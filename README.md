@@ -20,7 +20,7 @@ Sigue estos pasos para instalar el addon:
    - macOS: `~/Library/Application Support/Steam/steamapps/common/GarrysMod/garrysmod/addons`
 3. Inicia Garry's Mod y verifica que el addon esté activado en el menú "Addons".
 
-También, puedes descargar el addon de forma normal desde la workshop de GMod.
+También, puedes descargar el addon de forma normal desde el [Workshop de GMod](https://steamcommunity.com/sharedfiles/filedetails/?id=3539012137).
 
 ---
 
