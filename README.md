@@ -44,7 +44,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to create y
 
 ---
 
-# Español
+### Español
 
 Este addon agrega un conjunto de logros para el mapa **gm_construct** en Garry's Mod. Los logros están diseñados para hacer que tu **gm_construct** sea más entretenido y atractivo, con tareas específicas y una barra de progreso para seguir tu avance.
 
