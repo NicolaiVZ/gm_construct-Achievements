@@ -10,6 +10,7 @@ This addon introduces a set of achievements for the **gm_construct** map in Garr
 - **Achievements tab**: Access all achievements through a dedicated tab in the spawn menu.
 - **Progress bar**: Visualize how close you are to completing each achievement.
 - **Reset buttons**: Restart your progress for standard and/or special achievements.
+- **Save system**: Automatically saves your progress.
 
 ## Installation
 Follow these steps to install the addon:
@@ -54,6 +55,7 @@ Este addon agrega un conjunto de logros para el mapa **gm_construct** en Garry's
 - **Pestaña de logros**: Accede a todos los logros desde una pestaña dedicada en el menú de creación.
 - **Barra de progreso**: Visualiza cuánto te falta para completar cada logro.
 - **Botones de reseteo**: Reinicia tu progreso en los logros normales y/o en los logros especiales.
+- **Sistema de guardado**: Automáticamente guarda tu progreso.
 
 ## Instalación
 Sigue estos pasos para instalar el addon:
