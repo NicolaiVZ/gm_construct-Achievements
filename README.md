@@ -27,7 +27,7 @@ También, puedes descargar el addon de forma normal desde el [Workshop de GMod](
 
 ## Cómo usar el addon
 - Carga el mapa **gm_construct** en Garry's Mod.
-- Abre el menú de creación (tecla por defecto: `Q`) y busca la pestaña "Achievements".
+- Abre el menú de creación y busca la pestaña "Achievements".
 - Lee las descripciones de los logros y completa las tareas para desbloquearlos.
 - Revisa tu progreso en la barra de logros.
 - Reinicia tus logros normales para completar los logros especiales.
@@ -37,7 +37,7 @@ También, puedes descargar el addon de forma normal desde el [Workshop de GMod](
 ## ¿Cómo editar el código?
 Cada archivo del addon incluye comentarios breves que explican su función. Para personalizar los logros:
 - Necesitas conocimientos básicos de programación y de Lua (el lenguaje de Garry's Mod).
-- **Ejemplo**: Para cambiar los atrivutos de un logro, abre el archivo 'achievements_tab', y edita el campo `description` o `icon` (condición).
+- **Ejemplo**: Para cambiar los atrivutos de un logro, abre el archivo `achievements_tab`, y edita el campo `description` o `icon` (condición).
 - Consulta los comentarios en el código o la [Wiki de Garry's Mod](https://wiki.garrysmod.com/) para más detalles.
 
 ---
